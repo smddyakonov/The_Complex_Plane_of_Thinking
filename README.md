@@ -180,3 +180,6 @@ each thought, a point vibrating between the real and the imaginary."*
 ---
 
 **by Semen Dyakonov**
+
+© 2025 Semen Dyakonov
+Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
