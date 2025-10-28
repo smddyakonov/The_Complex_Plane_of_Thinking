@@ -11,11 +11,11 @@
 Так рождается **комплексная идея**: она включает и то, что реально ощущается, и то, что существует лишь в воображении.
 
 \[
-M = a + bi
+M = Re + Imi
 \]
 где  
-**a** — вещественная часть (логика, ощущение, действие),  
-**b** — мнимая часть (воображение, фантазия, интуиция).
+**Re** — вещественная часть (логика, ощущение, действие),  
+**Im** — мнимая часть (воображение, фантазия, интуиция).
 
 ---
 
@@ -94,11 +94,11 @@ where every idea, action, or decision contains both a **real** and an **imaginar
 Thus arises a **complex idea** — one that unites what can be experienced and what can only be imagined.
 
 \[
-M = a + bi
+M = Re + Imi
 \]
 where  
-**a** — real part (logic, perception, action),  
-**b** — imaginary part (imagination, fantasy, intuition).
+**Re** — real part (logic, perception, action),  
+**Im** — imaginary part (imagination, fantasy, intuition).
 
 ---
 
