@@ -138,5 +138,5 @@ Im = δ * PredictionDrift^ + ε * Uncertainty^ + ζ * AnomalyRate^
 
 Все слагаемые — нормализованы в `[-1,+1]`; веса калибруются в онлайне по истории `(Re,Im,t)`.
 
-© 2025 Semen Dyakonov / ChatGPT  
+© 2025 Semen Dyakonov
 Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
