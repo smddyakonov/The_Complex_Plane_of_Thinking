@@ -9,3 +9,6 @@
    
 ###
 4. [The Complex Data Plane](https://github.com/smddyakonov/The_Complex_Plane_of_Thinking/blob/main/Complex_Data_Plane.md)
+
+###
+4. [The Data Power](https://github.com/smddyakonov/The_Complex_Plane_of_Thinking/blob/main/Data_Power.md)
